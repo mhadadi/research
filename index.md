@@ -1,7 +1,7 @@
 <style> 
- @import url(http://fonts.googleapis.com/earlyaccess/scheherazade.css);
+ @import url(https://fonts.googleapis.com/css?family=Katibeh);
  div {
-   font-family: 'Scheherazade', serif;
+   font-family: 'Katibeh', cursive;
  }
 </style>
 
