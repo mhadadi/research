@@ -1,3 +1,10 @@
+<style> 
+ @import url(http://fonts.googleapis.com/earlyaccess/scheherazade.css);
+ div {
+   font-family: 'Scheherazade', serif;
+ }
+</style>
+
 <div>
 <h1 dir='rtl'> فونت‌های وب </h1>
 <p dir='rtl'>
