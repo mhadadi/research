@@ -1,6 +1,6 @@
 <style> 
  @import url(https://fonts.googleapis.com/css?family=Katibeh);
- div, p, h1, h2 {
+ body, div, p, h1, h2 , ul, li, ol{
    font-family: 'Katibeh', cursive;
    direction: rtl;
  }
